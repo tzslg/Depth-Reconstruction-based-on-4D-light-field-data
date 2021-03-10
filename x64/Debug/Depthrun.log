@@ -1,0 +1,21 @@
+﻿  Depthrun.cpp
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(98): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(221): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(222): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(223): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(402): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(874): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(900): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(901): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(902): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(903): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(905): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(906): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(907): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(908): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(910): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\Depthrun\Depthrun\Depthrun\areaMatch.h(1310): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Projects\Depthrun\Depthrun\Depthrun\Depthrun.cpp(11): warning C4305: “初始化”: 从“double”到“float”截断
+  ioImage.cpp
+  正在生成代码...
+  Depthrun.vcxproj -> F:\Projects\Depthrun\Depthrun\Depthrun\x64\Debug\Depthrun.exe
